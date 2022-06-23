@@ -3,6 +3,9 @@
 ** *This writeup is in progress.* **
 <br><br><br><br>
 <img src="/NodeRed-Sequence.jpg" />
+<img src="/HA+Tasker-Notifications.png" height="300" width="300"/>
+<img src="/Google-Volume-Control.png" />
+
 Severe weather automation for HomeAssistant and Tasker.
 
 

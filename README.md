@@ -2,6 +2,7 @@
 <br><br>
 ** *This writeup is in progress.* **
 <br><br><br><br>
+<img src="/NodeRed-Sequence.jpg" />
 Severe weather automation for HomeAssistant and Tasker.
 
 
